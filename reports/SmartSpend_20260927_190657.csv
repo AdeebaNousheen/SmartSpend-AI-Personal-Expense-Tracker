@@ -1,0 +1,61 @@
+ID,Date,Title,Category,Amount,Payment_Method,Notes,Is_Anomaly,Anomaly_Reason,Is_Demo
+333,2026-09-27,Swiggy food delivery,Food & Dining,413.41,UPI,Biryani & snacks,No,,Demo
+332,2026-09-26,D-Mart monthly supermarket haul,Groceries,2899.77,Debit Card,Provisions & cleaning,No,,Demo
+331,2026-09-26,Steam gaming store purchase,Entertainment,913.66,Credit Card,Game on discount,No,,Demo
+330,2026-09-26,PVR Cinemas movie tickets,Entertainment,587.17,Credit Card,Weekend movie & popcorn,No,,Demo
+329,2026-09-25,Myntra clothing & shoes,Shopping,1398.47,Credit Card,Casual wear,No,,Demo
+328,2026-09-25,Spotify Premium family,Entertainment,179.00,Credit Card,Music subscription,No,,Demo
+327,2026-09-24,Netflix Premium subscription,Entertainment,649.00,Credit Card,Family plan 4K,No,,Demo
+326,2026-09-23,Electricity bill (BESCOM),Utilities & Bills,1826.80,Net Banking,Monthly power bill,No,,Demo
+325,2026-09-22,Spotify Premium family,Entertainment,179.00,Credit Card,Music subscription,No,,Demo
+324,2026-09-22,Spotify Premium family,Entertainment,179.00,Credit Card,Music subscription,No,,Demo
+323,2026-09-21,D-Mart monthly supermarket haul,Groceries,2772.44,Debit Card,Provisions & cleaning,No,,Demo
+322,2026-09-21,Blinkit household essentials,Groceries,250.67,UPI,Cooking oil & spices,No,,Demo
+321,2026-09-20,Zomato dinner order,Food & Dining,383.45,UPI,Dinner with friends,No,,Demo
+320,2026-09-20,Netflix Premium subscription,Entertainment,649.00,Credit Card,Family plan 4K,No,,Demo
+319,2026-09-19,Doctor consultation fee,Healthcare,626.14,UPI,General checkup,No,,Demo
+318,2026-09-19,Salon haircut & grooming,Personal Care,417.21,UPI,Monthly haircut,No,,Demo
+317,2026-09-18,Local Darshini breakfast,Food & Dining,156.89,Cash,Dosa & filter coffee,No,,Demo
+316,2026-09-18,Airtel Broadband Wi-Fi,Utilities & Bills,999.00,Net Banking,100 Mbps fiber,No,,Demo
+315,2026-09-18,Netflix Premium subscription,Entertainment,649.00,Credit Card,Family plan 4K,No,,Demo
+314,2026-09-17,Decathlon fitness gear,Shopping,1189.05,UPI,Running socks & water bottle,No,,Demo
+313,2026-09-17,McDonald's meal,Food & Dining,411.36,UPI,Burger & fries,No,,Demo
+312,2026-09-16,Zomato dinner order,Food & Dining,604.35,UPI,Dinner with friends,No,,Demo
+311,2026-09-16,McDonald's meal,Food & Dining,302.29,UPI,Burger & fries,No,,Demo
+334,2026-09-15,Five Star Luxury Dinner & Drinks,Food & Dining,14500.00,Credit Card,Fine dining celebration with large group,Yes,"Amount ₹14,500 is 24x higher than typical Food & Dining average (₹350-₹800)",Demo
+310,2026-09-15,Local Darshini breakfast,Food & Dining,97.20,Cash,Dosa & filter coffee,No,,Demo
+309,2026-09-15,Blinkit household essentials,Groceries,301.89,UPI,Cooking oil & spices,No,,Demo
+308,2026-09-14,Blinkit household essentials,Groceries,572.98,UPI,Cooking oil & spices,No,,Demo
+307,2026-09-13,Netflix Premium subscription,Entertainment,649.00,Credit Card,Family plan 4K,No,,Demo
+306,2026-09-13,Airtel Broadband Wi-Fi,Utilities & Bills,999.00,Net Banking,100 Mbps fiber,No,,Demo
+305,2026-09-12,Amazon India electronics & cables,Shopping,603.66,Credit Card,USB-C hub & phone case,No,,Demo
+304,2026-09-12,Water utility bill,Utilities & Bills,440.18,UPI,Apartment water charges,No,,Demo
+303,2026-09-12,Uber cab ride to office,Transportation,208.69,UPI,Peak hour cab,No,,Demo
+302,2026-09-11,Zepto quick grocery delivery,Groceries,242.25,UPI,"Milk, bread, eggs",No,,Demo
+301,2026-09-11,Electricity bill (BESCOM),Utilities & Bills,1316.73,Net Banking,Monthly power bill,No,,Demo
+300,2026-09-10,Myntra clothing & shoes,Shopping,2300.78,Credit Card,Casual wear,No,,Demo
+299,2026-09-09,Airtel Broadband Wi-Fi,Utilities & Bills,999.00,Net Banking,100 Mbps fiber,No,,Demo
+298,2026-09-08,D-Mart monthly supermarket haul,Groceries,3204.27,Debit Card,Provisions & cleaning,No,,Demo
+297,2026-09-07,Chai Point tea & snacks,Food & Dining,95.31,Cash,Evening tea,No,,Demo
+296,2026-09-07,Electricity bill (BESCOM),Utilities & Bills,1734.35,Net Banking,Monthly power bill,No,,Demo
+295,2026-09-06,Amazon India electronics & cables,Shopping,923.70,Credit Card,USB-C hub & phone case,No,,Demo
+294,2026-09-06,Water utility bill,Utilities & Bills,401.63,UPI,Apartment water charges,No,,Demo
+293,2026-09-05,Mutual Fund SIP - Index Fund,Investments,5000.00,Net Banking,Automated SIP deduction,No,,Demo
+292,2026-09-05,Chai Point tea & snacks,Food & Dining,88.96,Cash,Evening tea,No,,Demo
+291,2026-09-05,Jio mobile prepaid recharge,Utilities & Bills,728.23,UPI,3-month data pack,No,,Demo
+290,2026-09-04,Amazon India electronics & cables,Shopping,1368.12,Credit Card,USB-C hub & phone case,No,,Demo
+289,2026-09-04,Zepto quick grocery delivery,Groceries,417.69,UPI,"Milk, bread, eggs",No,,Demo
+288,2026-09-03,BigBasket weekly vegetables,Groceries,883.86,UPI,Fresh veggies & fruits,No,,Demo
+287,2026-09-02,Airtel Broadband Wi-Fi,Utilities & Bills,999.00,Net Banking,100 Mbps fiber,No,,Demo
+286,2026-09-01,Monthly House Rent,Housing & Rent,16500.00,Net Banking,Apartment monthly rent transfer,No,,Demo
+285,2026-09-01,Spotify Premium family,Entertainment,179.00,Credit Card,Music subscription,No,,Demo
+284,2026-08-31,Electricity bill (BESCOM),Utilities & Bills,1295.09,Net Banking,Monthly power bill,No,,Demo
+283,2026-08-31,Chai Point tea & snacks,Food & Dining,93.47,Cash,Evening tea,No,,Demo
+282,2026-08-30,Uber cab ride to office,Transportation,384.41,UPI,Peak hour cab,No,,Demo
+281,2026-08-30,Myntra clothing & shoes,Shopping,2384.95,Credit Card,Casual wear,No,,Demo
+280,2026-08-29,Decathlon fitness gear,Shopping,1180.20,UPI,Running socks & water bottle,No,,Demo
+279,2026-08-29,Apollo Pharmacy medicines,Healthcare,701.77,UPI,Vitamins & first-aid,No,,Demo
+278,2026-08-28,Jio mobile prepaid recharge,Utilities & Bills,735.19,UPI,3-month data pack,No,,Demo
+277,2026-08-28,Indian Oil petrol refill,Transportation,976.14,Debit Card,Full tank petrol,No,,Demo
+276,2026-08-28,Electricity bill (BESCOM),Utilities & Bills,1665.85,Net Banking,Monthly power bill,No,,Demo
+275,2026-08-28,PVR Cinemas movie tickets,Entertainment,1029.52,Credit Card,Weekend movie & popcorn,No,,Demo
